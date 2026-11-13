@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Anita! 👋
+
+I'm a web designer and Joomla enthusiast based in the Netherlands.
+
+I specialize in creating beautiful, user-friendly websites using Joomla and YOOtheme Pro, with a strong focus on design, functionality and SEO.
+
+I'm passionate about learning, sharing knowledge and being part of the Joomla community.
+
+## 🏅 My badges
 
 [![An image of @anitabirdy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anitabirdy)](https://holopin.io/@anitabirdy)
 
